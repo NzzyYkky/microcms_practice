@@ -34,12 +34,6 @@
 	z-index: -1;
 }
 
-.image {
-	width: 200px;
-	height: auto;
-	border-radius: var(--border-radius);
-}
-
 .news {
 	position: relative;
 	background-color: #fff;
